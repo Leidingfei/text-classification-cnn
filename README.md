@@ -3,5 +3,7 @@
 
 # Requirements
 -Python 3
+
 -Tensorflow > 0.12
+
 -Numpy
